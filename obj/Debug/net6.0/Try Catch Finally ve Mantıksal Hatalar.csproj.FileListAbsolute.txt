@@ -1,0 +1,15 @@
+C:\Users\talha\OneDrive\Masaüstü\hata_yönetimi\bin\Debug\net6.0\Try Catch Finally ve Mantıksal Hatalar.exe
+C:\Users\talha\OneDrive\Masaüstü\hata_yönetimi\bin\Debug\net6.0\Try Catch Finally ve Mantıksal Hatalar.deps.json
+C:\Users\talha\OneDrive\Masaüstü\hata_yönetimi\bin\Debug\net6.0\Try Catch Finally ve Mantıksal Hatalar.runtimeconfig.json
+C:\Users\talha\OneDrive\Masaüstü\hata_yönetimi\bin\Debug\net6.0\Try Catch Finally ve Mantıksal Hatalar.dll
+C:\Users\talha\OneDrive\Masaüstü\hata_yönetimi\bin\Debug\net6.0\ref\Try Catch Finally ve Mantıksal Hatalar.dll
+C:\Users\talha\OneDrive\Masaüstü\hata_yönetimi\bin\Debug\net6.0\Try Catch Finally ve Mantıksal Hatalar.pdb
+C:\Users\talha\OneDrive\Masaüstü\hata_yönetimi\obj\Debug\net6.0\Try Catch Finally ve Mantıksal Hatalar.csproj.AssemblyReference.cache
+C:\Users\talha\OneDrive\Masaüstü\hata_yönetimi\obj\Debug\net6.0\Try Catch Finally ve Mantıksal Hatalar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha\OneDrive\Masaüstü\hata_yönetimi\obj\Debug\net6.0\Try Catch Finally ve Mantıksal Hatalar.AssemblyInfoInputs.cache
+C:\Users\talha\OneDrive\Masaüstü\hata_yönetimi\obj\Debug\net6.0\Try Catch Finally ve Mantıksal Hatalar.AssemblyInfo.cs
+C:\Users\talha\OneDrive\Masaüstü\hata_yönetimi\obj\Debug\net6.0\Try Catch Finally ve Mantıksal Hatalar.csproj.CoreCompileInputs.cache
+C:\Users\talha\OneDrive\Masaüstü\hata_yönetimi\obj\Debug\net6.0\Try Catch Finally ve Mantıksal Hatalar.dll
+C:\Users\talha\OneDrive\Masaüstü\hata_yönetimi\obj\Debug\net6.0\ref\Try Catch Finally ve Mantıksal Hatalar.dll
+C:\Users\talha\OneDrive\Masaüstü\hata_yönetimi\obj\Debug\net6.0\Try Catch Finally ve Mantıksal Hatalar.pdb
+C:\Users\talha\OneDrive\Masaüstü\hata_yönetimi\obj\Debug\net6.0\Try Catch Finally ve Mantıksal Hatalar.genruntimeconfig.cache
